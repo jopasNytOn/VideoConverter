@@ -1,0 +1,11 @@
+# folder which contains the rec file(s) to be converted
+rec_path      = "C:\\Apps\\github\\VideoConverter\\VideoData"
+
+# folder which contains the file ProjectX.jar
+projectx_path = "C:\\Apps\\Project-X_0.91.0"
+
+# folder which contains the file mplex1.exe
+mplex_path    = "C:\\Apps"
+
+# folder which contains the file StaxRip.exe
+staxrip_path  = "C:\\Apps\\StaxRip_1.1.7.2"
